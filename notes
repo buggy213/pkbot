@@ -1,0 +1,6 @@
+1. architectural - for now, we'll have it so that all the table schemas are only in their related cogs. this might be a
+bit more annoying to maintain, but it should be best way to do things
+(jk this is changed - this is far easier just keeping them all in one class)
+
+2. RNN architecture - bidirectional lstm with 256 neurons, note -- only 2366/101263 (about 2.4%) of tossups and
+924/131557 (0.7%) of bonus answerlines exceed this length

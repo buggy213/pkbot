@@ -1,0 +1,9 @@
+TODO: refactor to use an ORM - done
+TODO: add tk (done), add anki support (do this later)
+TODO: add cumulative stats for cogs
+TODO: add anki decks based on score clues / visual fine arts (do this later)
+TODO: ML-based answer recognition
+TODO: there has to be something more elegant than "global state skip message" solution
+TODO: add type hints
+TODO: add skipping for pk and tk
+TODO: serialize / save user sessions

@@ -1,5 +1,3 @@
-*.sql
-__pycache__/
-src/secret.py
+/venv/
 .idea/
-venv/
+src/token
